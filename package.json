@@ -1,0 +1,16 @@
+{
+  "name": "consumertrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ali Aftab",
+  "license": "ISC",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.4.0",
+    "device-detector-js": "^3.0.3"
+  }
+}
